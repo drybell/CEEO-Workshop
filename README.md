@@ -47,6 +47,7 @@ You can also view syntax.md for more examples.
 ![viewraw](./images/viewraw.png)
 
 ![syntax](./images/syntax.png)
+
 This is how Sublime visualizes the different syntax of markdown. 
 
 5. Open up the markdown file you created in step 4 in your text editor. 

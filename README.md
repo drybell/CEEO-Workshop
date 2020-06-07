@@ -6,9 +6,8 @@ By the end of this workshop, team members will be able to:
  - Maintain local copies of remote repositories 
  - Create and switch to different branches 
  - Create and approve a pull request 
- - Add issues 
- - learn a little markdown 
- - learn .gitignore functionality
+ - Learn a little markdown 
+ - Learn .gitignore functionality
  - Obtain workflow options to use when adding/modifying code 
 
 Not only will these tools help you stay up-to-date with the CEEO codebase, they will serve as good documentation practices for your own code.
@@ -82,9 +81,22 @@ You can try, but git will yell at you. The suitable command is `git push -u orig
 in order to set your remote destination. Since my branch is called daniel-r/test, I'll be running 
 `git push -u origin daniel-r/test`
 
-12. Time to add a pull request. Navigate to CEEO-Workshop (https://github.com/drybell/CEEO-Workshop/) and click on Pull requests. 
+12. Time to add a pull request. Navigate to CEEO-Workshop (https://github.com/drybell/CEEO-Workshop/) and click on Pull requests. It will look like something below: 
 
-13. 
+![newpull](./images/newpull.png)
+
+Click on the button New Pull Request
+
+13. Now it's time to compare changes. 
+
+![comparechanges](./images/comparechanges.png)
+
+![myaddition](./images/myaddition.png)
+
+Follow the images above to compare master to your new branch and then click create pull request! 
+
+
+
 
 
 

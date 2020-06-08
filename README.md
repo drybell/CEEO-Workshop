@@ -24,7 +24,7 @@ Hopefully you received an email (that's linked to your Github account) allowing 
 This workshop will mostly be using Terminal/Git Bash and `git`. If you feel comfortable on GitHub Desktop, feel free to follow along on there (you might not get the most out of this workshop, however)
 
 1. Open up your terminal, `cd` to your CEEO workspace (if you don't have one, make one with `mkdir`), and run 
-`https://github.com/drybell/CEEO-Workshop.git`. Don't forget to run `cd CEEO-Workshop` to enter the directory
+`git clone https://github.com/drybell/CEEO-Workshop.git`. Don't forget to run `cd CEEO-Workshop` to enter the directory
 
 2. Create a branch by using this protocol `git branch [firstname]-[lastinitial]/test` 
 For example, I'll run `git branch daniel-r/test` 

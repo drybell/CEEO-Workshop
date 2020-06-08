@@ -1,3 +1,6 @@
+# hyejin im
+## using the terminal is cool
+
 # CEEO WORKSHOP on Monday June 8th
 
 # Goals 

@@ -1,0 +1,3 @@
+#Emma Stevens
+##how to use Git to clone and branch
+1. Remember to practice using Github
